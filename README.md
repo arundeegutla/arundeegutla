@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arundeegutla
-- 👀 I’m interested in Developing Software
-- 🌱 I’m currently learning Java and other programming languages 
-- 💞️ I’m looking to collaborate on anything related software
+- 👀 I’m interested in Technology 
 - 📫 How to reach me arundeegutla@gmail.com
 
 <!---
