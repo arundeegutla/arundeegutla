@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arundeegutla
-- 👀 I’m interested in Technology 
+- 👀 I’m interested in Software Development 
 - 📫 How to reach me arundeegutla@gmail.com
 - 🕸️ https://arundeegutla.me/
 
