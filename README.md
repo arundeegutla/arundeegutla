@@ -1,12 +1,19 @@
 <h1 align="center">Welcome!</h1>
-
-### My name is Arun and I am currently a student at University of Central Florida
-- Bachelors : Computer Science // Minor : Mathematics // Class of 2025
+- 👋 Hi, I’m Arun Deegutla
+- 🏫 Student @ University of Central Florida // Class of 2025
+- Bachelors : Computer Science
+- Minor : Mathematics
+- 👀 I’m interested in Software Engineering
+- 📫 Reach me @ arundeegutla@gmail.com
+- 🕸️ https://arundeegutla.me/
 - Actively seeking internship, research, and co-op positions
+
 ### Here are some links
 <a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://leetcode.com/arundeegutla/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+</a> 
+<a href="https://arundeegutla.me/">![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 </a> 
 ### Programming Languages
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)
@@ -15,7 +22,7 @@
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.com/c/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
 
-### Tools/IDEs
+### Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
