@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1>
 
 ### My name is Arun and I am currently a student at University of Central Florida
-- Bachelors : Computer Science // Minor : Mathematics // Class of 2024
+- Bachelors : Computer Science // Minor : Mathematics // Class of 2025
 - Actively seeking internship, research, and co-op positions
 ### Here are some links
 <a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
