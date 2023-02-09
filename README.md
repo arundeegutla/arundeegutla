@@ -6,15 +6,11 @@
 - Minor : Mathematics
 - 👀 I’m interested in Software Engineering
 - 📫 Reach me @ arundeegutla@gmail.com
-- Actively seeking internship, research, and co-op positions
 
 ### Here are some links
-<a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://leetcode.com/arundeegutla/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-</a> 
-<a href="https://arundeegutla.me/">![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-</a> 
+<a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the badge&logo=linkedin&logoColor=white)</a>
+<a href="https://leetcode.com/arundeegutla/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06</a> 
+<a href="https://arundeegutla.me/">![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
