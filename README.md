@@ -8,8 +8,9 @@
 - 📫 Reach me @ arundeegutla@gmail.com
 
 ### Here are some links
-<a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the badge&logo=linkedin&logoColor=white)</a>
-<a href="https://leetcode.com/arundeegutla/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06</a> 
+<a href="https://www.linkedin.com/in/arundeegutla/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-thebadge&logo=linkedin&logoColor=white)
+</a>
+<a href="https://leetcode.com/arundeegutla/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a> 
 <a href="https://arundeegutla.me/">![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
