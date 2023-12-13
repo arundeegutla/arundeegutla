@@ -1,9 +1,9 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome</h1>
 
 - 👋 Hi, I’m Arun Deegutla
 - 🏫 Student @ University of Central Florida // Class of 2025
-- Bachelors : Computer Science
-- Minor : Mathematics
+- Bachelors: Computer Science
+- Minor: Mathematics
 - 👀 I’m interested in Software Engineering
 - 📫 Reach me @ arundeegutla@gmail.com
 
