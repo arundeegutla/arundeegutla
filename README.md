@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="left">Welcome</h1>
 
 - 👋 Hi, I’m Arun Deegutla
 - 🏫 Student @ University of Central Florida // Class of 2025
