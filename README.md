@@ -14,7 +14,8 @@
 <a href="https://arundeegutla.me/">![LeetCode](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a> 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=arundeegutla&count_private=true&show_icons=true&include_all_commits=true&theme=default" />
+ 
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=arundeegutla&count_private=true&show_icons=true&include_all_commits=true&theme=default" /> --->
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
